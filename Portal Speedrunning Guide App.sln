@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal Speedrunning Guide App", "Portal Speedrunning Guide App\Portal Speedrunning Guide App.csproj", "{725B3A72-90CB-4536-A236-26C505125F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725B3A72-90CB-4536-A236-26C505125F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725B3A72-90CB-4536-A236-26C505125F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725B3A72-90CB-4536-A236-26C505125F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725B3A72-90CB-4536-A236-26C505125F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BC25F9-A83D-4DE5-B86C-4A02BF49A348}
+	EndGlobalSection
+EndGlobal
