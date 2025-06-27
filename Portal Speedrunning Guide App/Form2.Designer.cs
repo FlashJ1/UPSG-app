@@ -35,6 +35,8 @@
             LBStrats = new ListBox();
             webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
             CBMap = new ComboBox();
+            textBox1 = new TextBox();
+            labelRank = new Label();
             ((System.ComponentModel.ISupportInitialize)webView21).BeginInit();
             SuspendLayout();
             // 
@@ -60,7 +62,7 @@
             // 
             labelMap.AutoSize = true;
             labelMap.Font = new Font("Consolas", 15.75F, FontStyle.Bold);
-            labelMap.Location = new Point(12, 81);
+            labelMap.Location = new Point(12, 80);
             labelMap.Name = "labelMap";
             labelMap.Size = new Size(130, 24);
             labelMap.TabIndex = 4;
@@ -72,7 +74,7 @@
             LBStrats.FormattingEnabled = true;
             LBStrats.HorizontalScrollbar = true;
             LBStrats.ItemHeight = 24;
-            LBStrats.Location = new Point(13, 108);
+            LBStrats.Location = new Point(12, 116);
             LBStrats.Name = "LBStrats";
             LBStrats.Size = new Size(313, 172);
             LBStrats.TabIndex = 5;
@@ -86,7 +88,7 @@
             webView21.DefaultBackgroundColor = Color.White;
             webView21.Location = new Point(332, 37);
             webView21.Name = "webView21";
-            webView21.Size = new Size(439, 243);
+            webView21.Size = new Size(819, 438);
             webView21.TabIndex = 6;
             webView21.ZoomFactor = 1D;
             // 
@@ -98,11 +100,36 @@
             CBMap.Size = new Size(121, 23);
             CBMap.TabIndex = 7;
             // 
+            // textBox1
+            // 
+            textBox1.Font = new Font("Consolas", 15.75F, FontStyle.Bold);
+            textBox1.Location = new Point(12, 305);
+            textBox1.Multiline = true;
+            textBox1.Name = "textBox1";
+            textBox1.ReadOnly = true;
+            textBox1.ScrollBars = ScrollBars.Vertical;
+            textBox1.Size = new Size(313, 248);
+            textBox1.TabIndex = 8;
+            textBox1.Text = "Strat Description";
+            // 
+            // labelRank
+            // 
+            labelRank.AutoSize = true;
+            labelRank.Font = new Font("Consolas", 15.75F, FontStyle.Bold);
+            labelRank.Location = new Point(148, 80);
+            labelRank.Name = "labelRank";
+            labelRank.Size = new Size(130, 24);
+            labelRank.TabIndex = 9;
+            labelRank.Text = "Strat rank";
+            // 
             // Form2
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            AutoScroll = true;
+            ClientSize = new Size(1197, 644);
+            Controls.Add(labelRank);
+            Controls.Add(textBox1);
             Controls.Add(CBMap);
             Controls.Add(webView21);
             Controls.Add(LBStrats);
@@ -125,5 +152,7 @@
         private ListBox LBStrats;
         private Microsoft.Web.WebView2.WinForms.WebView2 webView21;
         private ComboBox CBMap;
+        private TextBox textBox1;
+        private Label labelRank;
     }
 }

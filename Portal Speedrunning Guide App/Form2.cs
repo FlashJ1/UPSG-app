@@ -17,7 +17,12 @@ namespace Portal_Speedrunning_Guide_App
     public partial class Form2 : Form
     {
         private Dictionary<string, List<StratInfo>> linkData;
+        private Dictionary<string, List<string>> descData;
+        private Dictionary<string, List<string>> rankData;
+
         private List<StratInfo> currentStrats;
+        private string currentDesc;
+        private string currentRank;
         public Form2()
         {
             InitializeComponent();
@@ -27,7 +32,7 @@ namespace Portal_Speedrunning_Guide_App
 
             CBCategory.SelectedIndexChanged += UpdateStratsList;
             CBMap.SelectedIndexChanged += UpdateStratsList;
-            
+
 
             this.Text = "Portal Speedrunning Guide";
 
@@ -35,6 +40,8 @@ namespace Portal_Speedrunning_Guide_App
             webView21.EnsureCoreWebView2Async();
 
             LoadLinks();
+            LoadDesc();
+            LoadRank();
         }
 
         private void LoadLinks()
@@ -42,6 +49,19 @@ namespace Portal_Speedrunning_Guide_App
             string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "links.json");
             string json = System.IO.File.ReadAllText(path);
             linkData = JsonSerializer.Deserialize<Dictionary<string, List<StratInfo>>>(json);
+        }
+
+        private void LoadDesc()
+        {
+            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "desc.json");
+            string json = System.IO.File.ReadAllText(path);
+            descData = JsonSerializer.Deserialize<Dictionary<string, List<string>>>(json);
+        }
+        private void LoadRank()
+        {
+            string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "rank.json");
+            string json = System.IO.File.ReadAllText(path);
+            rankData = JsonSerializer.Deserialize<Dictionary<string, List<string>>>(json);
         }
 
         private void SelectedMap(string key)
@@ -60,7 +80,6 @@ namespace Portal_Speedrunning_Guide_App
 
             }
         }
-
 
         private void UpdateStratsList(object sender, EventArgs e)
         {
@@ -238,12 +257,28 @@ namespace Portal_Speedrunning_Guide_App
         {
             int index = LBStrats.SelectedIndex;
 
+            currentDesc = null;
+            currentRank = null;
+
             if (index >= 0 && index < currentStrats.Count)
             {
                 string url = currentStrats[index].Url;
                 string embedUrl = ConvertToEmbedUrl(url);
                 webView21.Source = new Uri($"{embedUrl}?autoplay=1");
 
+                string key = GetMapKey(CBCategory.SelectedItem.ToString(), CBMap.SelectedItem.ToString());
+
+                if (descData.TryGetValue(key, out var descs) && index < descs.Count)
+                {
+                    currentDesc = descs[index];
+                    textBox1.Text = currentDesc;
+                }
+
+                if (rankData.TryGetValue(key, out var ranks) && index < ranks.Count)
+                {
+                    currentRank = ranks[index];
+                    labelRank.Text = currentRank;
+                }
             }
         }
 
@@ -272,6 +307,5 @@ namespace Portal_Speedrunning_Guide_App
                 return "";
             }
         }
-
     }
 }

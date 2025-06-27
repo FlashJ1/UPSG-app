@@ -1,0 +1,331 @@
+{
+  "OoB00": [
+    "The simplest route through the first map, intended for absolute beginners. Move on to Vault Skip once you’re comfortable with the game, as it’s not too difficult and saves a substantial amount of time.",
+    "Strategy that uses the radio to get out of the vault well before the portal opens. This saves a significant amount of time, over 50 seconds if done well.",
+    "A strat requiring tick-perfect saveloads that can reward you with 14 seconds of time save at the start of a run.",
+    "Using a more precise setup and tight Save/Load timing, this strat saves up to 4 seconds over Vault Skip.",
+    "Only possible on older builds (3420 or 4104). The fastest route when paired with vault skip. Uses the cube to get save glitch to skip the 02 dialogue."
+  ],
+  "OoB02": [
+    "Simple save glitch to the end.",
+    "Simple save glitch to get under the elevator that uses the new game feature to get up to 04. You must record video to use this since it requires pausing and you also have to use \"sv_unlockedchapters 0\" every time you reset.",
+    "Elevator skip using VWW, saves a small amount of time in 04. You can use a falling save glitch instead if the VWW timing is too difficult.",
+    "Using the same VWW as the previous strat, but with a different ending in order to preserve SG into Chamber 04. Required 04 strat when preserving SG and not doing Front of Elevator here.",
+    "Using a Viewsnap to skip needing the save glitch to get out of bounds. Optimally saves just over a second compared to the save glitch. The falling save glitch is interchangeable with the VWW used above. Viewsnap sensitivity: 5446.7218"
+  ],
+  "OoB04": [
+    "Single save glitch to get to the end of 05. 2 different SG routes are shown.",
+    "Multiple save glitches to get you in front of the elevator in 06."
+  ],
+  "OoB06": [
+    "Very precise but simple shot set up in the previous chamber. Showpos coordinates: -72.60 164.56",
+    "A modified seamshot, followed by several seamshots to start in front of the elevator in 08. Saves around 3 seconds. The IL snap at the start is optional, and you can instead use the same movement as the regular seamshot using the second set of coordinates below. Showpos coordinates with IL snap: -66.82 -169.24 Showpos coordinates without IL snap: -66.80 168.77",
+    "An outdated version of the 08 infront route. Not possible on older builds (3420/4104)."
+  ],
+  "OoB08": [
+    "Most commonly used route, which has you jump onto a block, and then onto the ending platform.",
+    "Fast strat with multiple ways of doing it, this is really difficult and saves a very small amount of time.",
+    "Fast strat with multiple ways of doing it, this is really difficult and saves a very small amount of time.",
+    "See 08 infront. A modified ABH over goo starting in front of the elevator, set up in the previous chamber. Fastest strat."
+  ],
+  "OoB09": [
+    "Basic movement with a portal shot under the door.",
+    "Preserving sg from 09 into 10 so you can skip getting save glitched again, as well as starting 10 in front of the elevator.",
+    "Saves one second over the intermediate strat by implementing early activation. Requires good movement and has some tight timings. There is also an alternate way to do the ending, shown here.",
+    "Uses a viewsnapped seamshot at the start of the map to shoot straight to the end. Saves 0.8 seconds over early activation."
+  ],
+  "OoB10": [
+    "Save glitching and going out of bounds to get under the elevator for 11.",
+    "Using a vertical wall warp to get to the top of the chamber. This route is slower than the one in the Advanced section below but does not require the difficult series of ABHs.",
+    "Uses a vertical wall warp to get on top of the chamber and ABHs into a trigger to skip the 10 elevator.",
+    "Using a precise shot to skip the VWW and A-hop straight to the end. Saves ~3 seconds if performed optimally, but requires total mastery of speed control to consistently perform. Only recommended when going for top times."
+  ],
+  "OoB11": [
+    "Starting from under the elevator, get to under the elevator at the end of chamber 12.",
+    "This is slower than the normal under elevator that starts in chamber 10, but if you find yourself having trouble with it you can try this version.",
+    "Lead on from VWW/Superwarp strats in 10. Simple shots to get under the elevator.",
+    "This is used for both Under Ele 2 and 3. Requires very quick portal peeks, QCS, and a falling save glitch, all under a very tight timer."
+  ],
+  "OoB13": [
+    "Starting from 13 under the elevator, all chambers up to 18 are very fast and similar, so the video explains all of them.",
+    "This strat is much more difficult than UE1. The total timesave across all of 13-18 is about 2-3 seconds. UE2 is more difficult than UE3, and is not recommended.",
+    "Utilizing VWW or FSG to save a shot per chamber over UE2. Total time save is only about 3-4 seconds over UE2 but it’s a lot easier to perform."
+  ],
+  "OoB19": [
+    "Utilizing Quick Quantum Crouch Storage to clip out of bounds and quickly complete chamber 19.",
+    "Starts chamber 19 under the elevator using a falling save glitch setup in 18. If you didn’t use Under Elevator 3 for 18, you’ll need to use the quantum crouch setup from this tutorial."
+  ],
+  "OoBe00": [
+    "Basic portal shooting to get to the next load zone.",
+    "Alternatives to the standard route that work on builds with free oob.",
+    "Utilizes free oob movement to skip the shot toward the black box. Optimally about 0.2 seconds faster but is extremely difficult to save time with."
+  ],
+  "OoBe01": [
+    "Basic portal shooting to get to the next load zone."
+  ],
+  "OoBe02": [
+    "A series of portal shots and PQRs to get to GLaDOS’ chamber fast.",
+    "Uses an edge glitch to incinerate the cores without them having to fall out of your portal in the incinerator.",
+    "Sets up to the same AAG as the inbounds route using a PQR.",
+    "A somewhat precise save glitch that has the potential of saving 2-3 seconds over the AAG route. VWW can be tricky because of the long loading times in e02. Build 3420/4104 can do the crouch into the level transition, while in 5135 you will need to portal yourself over to the same area."
+  ],
+  "IB00": [
+    "The simplest route through the first map, intended for absolute beginners. Move on to Vault Skip once you’re comfortable with the game, as it’s not too difficult and saves a substantial amount of time.",
+    "Strategy that uses the radio to get out of the vault well before the portal opens. This saves a significant amount of time, over 50 seconds if done well.",
+    "A strat requiring tick-perfect saveloads that can reward you with 14 seconds of time save at the start of a run.",
+    "Using a more precise setup and tight Save/Load timing, this strat saves up to 4 seconds over Vault Skip."
+  ],
+  "IB02": [
+    "The easiest route, which uses no save glitches.",
+    "This route incorporates a save glitch, with a shot that you have to perform while airstrafing. Saves 8 seconds if done perfectly."
+  ],
+  "IB04": [
+    "Basic route with a very simple save glitch to effectively skip both chambers.",
+    "An inbounds vertical wall warp which skips part of the 04 to 05 elevator ride. Can optimally save ~5 seconds over the basic SG.",
+    "Utilizes the wait time in 05 to set up a save glitch and inbounds VWW, allowing you to begin 06 in front of the elevator. Optimally saves 1.5 seconds. If the ABH to the fizzler is difficult, an alternate method to get to there can be found here.",
+    "A long, extremely difficult strat that involves a preserved save glitch from Chamber 03. Only recommended when going for top times. Can save up to 6 seconds over 04 VWW if executed perfectly.",
+    "An extension of 04 elevator skip. Preserves a camera into 06 to perform the camera launch strat. "
+  ],
+  "IB06": [
+    "Show multiple routes for 06 and 07 including fast 07 as well as optimizations for both"
+  ],
+  "IB08": [
+    "Simplest route that’s much faster than the intended strategy.",
+    "Easiest method for ABH over goo. Does not use a circle strafe but still requires multiple toggle_duck inputs. Use the alternate setup if you aren’t getting enough speed.",
+    "Harder method for ABH over goo that requires a precise circlestrafe and multiple +duck and toggle_duck inputs, very difficult.",
+    "Optimization that saves about 1.5s over regular ABH over goo by going straight into the elevator from the middle platform."
+  ],
+  "IB09": [
+    "Basic movement with a portal shot under the door.",
+    "Saves 1-2 seconds over the standard method if done perfectly, but the saveload timing can take a bit to get used to",
+    "Saves around 3 seconds by using the save delay method to hit the triggers for the elevator in a different order, making it start going up earlier and keeping the doors open for the start of 10."
+  ],
+  "IB10": [
+    "Basic flings, nothing special.",
+    "Very difficult and unreliable strat that skips the last double fling, which saves about 6 seconds if done perfectly."
+  ],
+  "IB11": [
+    "This strat is meant for beginners. Move on to the Triple Edge Glitch or Softwall Save Glitch once you get somewhat comfortable with the game as they are much faster.",
+    "AFH right out of the elevator to quickly get to the orange portal gun.",
+    "Three edge glitch shots from chamber 11 to skip ahead to chamber 12, saves over 15 seconds when performed well.",
+    "Static save glitch, which uses a special kind of save glitch called a softwall. Should be relatively easy if you are familiar with save glitch. Optimally saves ~7 seconds over triple edge glitch.",
+    "Difficult save glitch under time pressure that saves a bit over softwall save glitch, as well as letting you start 13 in front of the elevator. Saves 2-3 seconds in total."
+  ],
+  "IB13": [
+    "Throwing the cube fast can be a bit annoying, but otherwise it shouldn’t be too difficult.",
+    "A simple save glitch which saves a couple of seconds if done correctly."
+  ],
+  "IB14": [
+    "A basic double fling.",
+    "Has the potential to save about a second over the fling if done perfectly, but has precise timing and is much harder to get consistently.",
+    "Save glitch that sets up for a TPWW in 15. Loses roughly 2 seconds to Reportal but gains 8-9s in 15. An optimization for this route can be found at the beginning of the Inbounds Under Elevator tutorial."
+  ],
+  "IB15": [
+    "A save glitch to take you from the orb room to the goo section.",
+    "Fast strat used to shoot through the platform and skip the orb puzzle.",
+    "Part 2 of TPWW. A simple fling or AFH to the end, saves 8-9 seconds over Early Save Glitch depending on which ending you do, making the net gain of TPWW 6-7 seconds.",
+    "Traverses the entire chamber in one long save glitch. Much more difficult and a lot slower than TPWW, no longer recommended",
+    "A 3 part route between chambers 15-17 involving several TPWW’s and Load Glitches. Optimally saves ~5 seconds but is very difficult and only recommended when going for top times"
+  ],
+  "IB16": [
+    "One of the easiest save glitches, and leads into Turretless. There is also a 3 shot method, but it is very difficult to save time with and you cannot land in the ending hallway.",
+    "A very difficult route that preserves save glitch state through Chamber 17 and 18 saving 20-30 seconds depending on what routes you did prior.",
+    "Alternative elevator shots to put you in front of the elevator in 17. Saves 2-3 seconds over standard turretless and is potentially easier and more consistent.",
+    "Part 2 of IUE. Continued from chamber 15."
+  ],
+  "IB17": [
+    "Uses the Companion Cube to get past the orbs, and then portal bumps to the final room.",
+    "Uses a viewsnap setup to perform a VAG (Vertical Angle Glitch) and teleport to the elevator. Refer to the turretless videos for more information on preserving save glitch into 17. Viewsnap Sens: 7757.2046",
+    "Part 2 of Turretless.",
+    "Continued from Chamber 16.",
+    "Part 3 of IUE. Continued from chamber 16"
+  ],
+  "IB18": [
+    "Easy static blind save glitch. Nothing too difficult, just need to memorize some texture lineups.",
+    "First version of the blind save glitch. Potentially slightly faster.",
+    "Only possible after Turretless or IUE. Continued from Chamber 17."
+  ],
+  "IB19": [
+    "A pretty easy LAG that gets you to the room above the fire pit. Here is an alternative to the edge glitch if you are having trouble with it.",
+    "Uses portal peeking to get to the end, not recommended.",
+    "A faster LAG route that warps you into some goo you have to swim out of (hence the name). A replacement for the single LAG that leads nicely into double LAG.",
+    "Save glitch after Loch Ness that saves a lot of time over the beginner ending, and has potential to be around 1 second faster than Double LAG, and 10 seconds faster than a glitchless ending.",
+    "A second, difficult, additional LAG after the first one that gets you to the very end of the map. Slower and much more difficult than the save glitch"
+  ],
+  "IBe00": [
+    "Basic route that is easy to perform, nothing special.",
+    "Faster route that requires decent movement.",
+    "Very difficult route that requires good movement, precise and quick portal shooting.",
+    "Quite a difficult save glitch that saves several seconds over other routes if executed well.",
+    "Newer, alternate save glitch route that is ~1 second faster than the save glitch route above."
+  ],
+  "IBe01": [
+    "Route for new runners, but is much slower than the save glitch routes listed below.",
+    "If you are having trouble with the Route 4 Save Glitch, you can try this one instead. Shots are a little more precise to line up. Fastest route if done perfectly.",
+    "Requires some precise shots, but not too hard once you get used to it."
+  ],
+  "IBe02": [
+    "Simple flings from start to finish, nothing too difficult. Skips the GLaDOS dialogue using a turret. Uses the incinerator to destroy the cores, just like in a normal playthrough.",
+    "Uses an edge glitch to incinerate the cores without them having to fall out of your portal into the shaft. ",
+    "Skips the long flings and the ABH on the bridge to get to the door as fast as possible.",
+    "An easier and faster alternative to the double AAG if done well. Saves roughly 8 seconds over Catwalk Skip",
+    "A slightly slower alternative to single AAG that requires less movement, but a more precise timing.",
+    "Does the AAG before the turrets drop, allowing them to drop directly into the Glados room. Extremely precise and very little time to set up. Saves about 3 seconds over Single AAG."
+  ],
+  "IBNSLA00": [
+    "The easiest route that beginners should start with.",
+    "Strategy that uses the radio to get out of the vault well before the portal opens. Similar to inbounds vault skip, but is done without saveloads and is VERY inconsistent. This can save a significant amount of time, over 50 seconds if done well."
+  ],
+  "IBNSLA02": [
+    "The only viable route."
+  ],
+  "IBNSLA04": [
+    "Intended strats."
+  ],
+  "IBNSLA06": [
+    "Shows multiple routes for 06 and 07 including fast 07 as well as optimizations for both.",
+    "Optimization in which you preserve a camera from 05 and then launch yourself with it in 06. Saves about a second."
+  ],
+  "IBNSLA08": [
+    "Route which has you jump onto a block, and then onto the ending platform.",
+    "Easiest method for ABH over goo. Does not use a circle strafe but still requires multiple toggle_duck inputs. Use the alternate setup if you aren’t getting enough speed.",
+    "Harder method for ABH over goo that requires a precise circlestrafe and multiple +duck and toggle_duck inputs, very difficult.",
+    "Optimization that saves about 1.5s over regular ABH over goo by going straight into the elevator from the middle platform"
+  ],
+  "IBNSLA09": [
+    "Basic movement with a portal shot under the door."
+  ],
+  "IBNSLA10": [
+    "Basic flings, nothing special.",
+    "Very difficult and unreliable strat that skips the last double fling, which saves about 5 seconds if done perfectly."
+  ],
+  "IBNSLA11": [
+    "This strat is meant for brand new runners. Move on to the Triple Edge Glitch once you get somewhat comfortable with the game as it is much faster.",
+    "How to do the AFH right out of the elevator to instantly get to the orange portal gun in preparation for the Triple Edge Glitch.",
+    "Three edge glitch shots from chamber 11 to skip to chamber 12."
+  ],
+  "IBNSLA13": [
+    "Throwing the cube fast can be a bit annoying, but otherwise it shouldn’t be too difficult."
+  ],
+  "IBNSLA14": [
+    "A basic double fling",
+    "Has the potential to save about a second if done perfectly, but has very precise timing so it is much harder to get consistently."
+  ],
+  "IBNSLA15": [
+    "Uses portal bumps to skip the orb puzzle.",
+    "Uses quantum crouch to shoot through the platform in the orb room. Saves a few seconds over the observation room route."
+  ],
+  "IBNSLA16": [
+    "Two portal bumps to access the ending turret room."
+  ],
+  "IBNSLA17": [
+    "Uses the Companion Cube to get past the orbs, and then portal bumps to the final room.",
+    "Uses a seamshot to skip going down both hallways. Saves a couple seconds over the Legacy route. Showpos Pos: ~1584 ~384.05 Ang: ~89 ~-4.4",
+    "Uses a viewsnap setup to perform a VAG (Vertical Angle Glitch) and teleport to the elevator. Viewsnap Sens: 7757.2046"
+  ],
+  "IBNSLA18": [
+    "Two edge glitches that get you past the door halfway through the chamber. ",
+    "Uses a pause boost on a camera to skip the flings. Saves ~8 seconds. All leaderboard submissions with this route require video proof."
+  ],
+  "IBNSLA19": [
+    "A pretty easy LAG that gets you to the room above the fire pit. Here is an alternative to the edge glitch if you are having trouble with it.",
+    "Uses portal peeking to get to the end, not recommended.",
+    "A faster LAG route that warps you into some goo you have to swim out of (hence the name). A replacement for the short LAG that leads nicely into double LAG.",
+    "Uses edge glitches and portal peeks to set up a second LAG. Use the other double lag video as well to understand how the second LAG works.",
+    "A difficult EG before the second LAG that can save a bit of time."
+  ],
+  "IBNSLAe00": [
+    "Basic route that is easy to perform, nothing special.",
+    "Faster route that requires decent movement",
+    "Uses a crouch trigger teleport to skip the entire piston hallway. Shows both an intermediate route and an advanced route. Note: Demo proof is highly recommended when using this route. It is sometimes impossible to verify a run based on video proof alone.",
+    "Very difficult route that requires good movement, precise and quick portal shooting. Slower than pistonless, no longer recommended."
+  ],
+  "IBNSLAe01": [
+    "Route for new runners.",
+    "Difficult optimization for the legacy route. Also the best named strat of all time.",
+    "Uses a modified version of save glitch called AGSG which doesn’t require loading to do a series of precise shots to get to the end of the level."
+  ],
+  "IBNSLAe02": [
+    "Simple flings from start to finish, nothing too difficult. Skips the GLaDOS dialogue using a turret. Uses the incinerator to destroy the cores, just like in a normal playthrough.",
+    "Uses an edge glitch to incinerate the cores without them having to fall out of your portal into the shaft.",
+    "Skips the long flings and the ABH on the bridge to get to the door as fast as possible.",
+    "An easier and faster alternative to the double AAG if done well. Saves roughly 8 seconds over Catwalk Skip.",
+    "A slightly slower alternative to single AAG that requires less movement, but a more precise timing.",
+    "Does the AAG before the turrets drop, allowing them to drop directly into the Glados room. Extremely precise and very little time to set up. Saves about 3 seconds over Single AAG."
+  ],
+  "Gless00": [
+    "Intended route through the level, but fast."
+  ],
+  "Gless02": [
+    "Shows strats for both 02 and 03, including pre-fizzle in 02"
+  ],
+  "Gless04": [
+    "Shows a few different options for 04 as well as the most consistent way for doing chamber 05"
+  ],
+  "Gless06": [
+    "Shows beginner options for both chambers as well as optimizations.",
+    "Saves a very small amount of time, but is useful for the top level glitchless runs."
+  ],
+  "Gless08": [
+    "Fastest route that requires a bit of airstrafing."
+  ],
+  "Gless09": [
+    "Route that avoids walking to the cube.",
+    "Slightly harder variant of the portal peek route."
+  ],
+  "Gless10": [
+    "Basic flings, nothing special. Having portal funnelling on helps with the last fling.",
+    "Tricky, skips the first fling though so it’s definitely worthwhile.",
+    "A more precise approach to the fling that flings you faster and farther, optimally saves about 2 seconds."
+  ],
+  "Gless11": [
+    "Very beginner-friendly methods for completing chambers 11 & 12.",
+    "Optimal routes for Chambers 11 & 12. More info on 12 cube throw can be found here."
+  ],
+  "Gless13": [
+    "Shows a few options for completing Chamber 13."
+  ],
+  "Gless14": [
+    "Reasonably easy fling from the elevator to the exit",
+    "Should only be used if you fail the fling.",
+    "Fastest route, reportal instead of using flings. "
+  ],
+  "Gless15": [
+    "Video goes over multiple options for each section of chamber 15"
+  ],
+  "Gless16": [
+    "Slow but easy route in case you struggle with the harder strats.",
+    "Currently the most optimal route, slight optimizations are covered in the following video.",
+    "Optimizations that can be added to spiderman, vary widely in difficulty level.",
+    "The fastest route without spiderman mechanics, but still much slower than spiderman."
+  ],
+  "Gless17": [
+    "Easier version of the camera stack trick that is a lot more forgiving but a bit slower.",
+    "Make a save before attempting the stack in case the cube falls off. Try to keep the camera upright. Once up, grab the companion cube as fast as possible.",
+    "Uses precise portals to fling to the end of 17. A few seconds faster than camera stack, but it does require some quick aiming to get the right portal spots. The angle for the floor portal is between roughly -108.25 and -109.50."
+  ],
+  "Gless18": [
+    "Another camera trick. Maintaining the orientation of the camera after shooting it off the wall is extremely important. Note: Portal funneling on makes the last room much easier.",
+    "Difficult reportals that save a small amount of time. Video is from an inbounds tutorial, but the basic strategy is the same.",
+    "Very difficult strafes that can save about 1 to 2 seconds."
+  ],
+  "Gless19": [
+    "Video goes over spiderman strat for the beginning similar to 16 as well as many intermediate and advanced optimizations."
+  ],
+  "Glesse00": [
+    "Basic route that uses portal peeks extensively.",
+    "Faster route that requires faster and more precise shooting.",
+    "Faster route that requires faster and more precise shooting.",
+    "Goes over many small optimizations."
+  ],
+  "Glesse01": [
+    "Basic route using the flippy skippy trick (aka TFSTFWST).",
+    "Very challenging but fast optimisation for the flippy skippy trick. Saves a lot of time and provides the portal for the turret glass break."
+  ],
+  "Glesse02": [
+    "The GLaDOS fight will take a little practice, standing in the correct spot before the rocket turret comes out is very important.",
+    "Skips the long flings and catwalk to get to GLaDOS as fast as possible, plus a faster version of the GLaDOS fight.",
+    "Multiple optimizations throughout e02 that each save a small amount of time, but are very necessary at a high level.",
+    "A faster approach to the shots on Glados that optimally save 1.5 second each. To see how to approach red core, look here."
+  ]
+}

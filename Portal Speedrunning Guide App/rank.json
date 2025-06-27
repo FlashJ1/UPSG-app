@@ -1,0 +1,331 @@
+{
+  "OoB00": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Advanced",
+    "Advanced"
+  ],
+  "OoB02": [
+    "Beginner",
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Advanced"
+  ],
+  "OoB04": [
+    "Beginner",
+    "Advanced"
+  ],
+  "OoB06": [
+    "Beginner",
+    "Advanced",
+    "Advanced"
+  ],
+  "OoB08": [
+    "Beginner",
+    "Advanced",
+    "Advanced",
+    "Advanced"
+  ],
+  "OoB09": [
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Advanced"
+  ],
+  "OoB10": [
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Expert"
+  ],
+  "OoB11": [
+    "Beginner",
+    "Beginner",
+    "Advanced",
+    "Advanced"
+  ],
+  "OoB13": [
+    "Beginner",
+    "Advanced",
+    "Advanced"
+  ],
+  "OoB19": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "OoBe00": [
+    "Beginner",
+    "Beginner",
+    "Advanced"
+  ],
+  "OoBe01": [
+    "Beginner"
+  ],
+  "OoBe02": [
+    "Beginner",
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ],
+  "IB00": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Advanced"
+  ],
+  "IB02": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "IB04": [
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Expert",
+    "Expert"
+  ],
+  "IB06": [
+    "Beginner"
+  ],
+  "IB08": [
+    "Beginner",
+    "Advanced",
+    "Advanced",
+    "Advanced"
+  ],
+  "IB09": [
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ],
+  "IB10": [
+    "Beginner",
+    "Advanced"
+  ],
+  "IB11": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Intermediate",
+    "Expert"
+  ],
+  "IB13": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "IB14": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate"
+  ],
+  "IB15": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Intermediate",
+    "Expert"
+  ],
+  "IB16": [
+    "Beginner",
+    "Advanced",
+    "Advanced",
+    "Expert"
+  ],
+  "IB17": [
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Advanced",
+    "Expert"
+  ],
+  "IB18": [
+    "Beginner",
+    "Beginner",
+    "Advanced"
+  ],
+  "IB19": [
+    "Beginner",
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Advanced"
+  ],
+  "IBe00": [
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Advanced",
+    "Advanced"
+  ],
+  "IBe01": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate"
+  ],
+  "IBe02": [
+    "Beginner",
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Intermediate",
+    "Expert"
+  ],
+  "IBNSLA00": [
+    "Beginner",
+    "Advanced"
+  ],
+  "IBNSLA02": [
+    "Beginner"
+  ],
+  "IBNSLA04": [
+    "Beginner"
+  ],
+  "IBNSLA06": [
+    "Beginner",
+    "Advanced"
+  ],
+  "IBNSLA08": [
+    "Beginner",
+    "Advanced",
+    "Advanced",
+    "Advanced"
+  ],
+  "IBNSLA09": [
+    "Beginner"
+  ],
+  "IBNSLA10": [
+    "Beginner",
+    "Advanced"
+  ],
+  "IBNSLA11": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate"
+  ],
+  "IBNSLA13": [
+    "Beginner"
+  ],
+  "IBNSLA14": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "IBNSLA15": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "IBNSLA16": [
+    "Beginner"
+  ],
+  "IBNSLA17": [
+    "Beginner",
+    "Beginner",
+    "Intermediate"
+  ],
+  "IBNSLA18": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "IBNSLA19": [
+    "Beginner",
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Advanced"
+  ],
+  "IBNSLAe00": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Advanced"
+  ],
+  "IBNSLAe01": [
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ],
+  "IBNSLAe02": [
+    "Beginner",
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Intermediate",
+    "Expert"
+  ],
+  "Gless00": [
+    "Beginner"
+  ],
+  "Gless02": [
+    "Beginner"
+  ],
+  "Gless04": [
+    "Beginner"
+  ],
+  "Gless06": [
+    "Beginner",
+    "Advanced"
+  ],
+  "Gless08": [
+    "Beginner"
+  ],
+  "Gless09": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "Gless10": [
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ],
+  "Gless11": [
+    "Beginner",
+    "Intermediate"
+  ],
+  "Gless13": [
+    "Beginner"
+  ],
+  "Gless14": [
+    "Beginner",
+    "Beginner",
+    "Intermediate"
+  ],
+  "Gless15": [
+    "Beginner"
+  ],
+  "Gless16": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Intermediate"
+  ],
+  "Gless17": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate"
+  ],
+  "Gless18": [
+    "Beginner",
+    "Intermediate",
+    "Advanced"
+  ],
+  "Gless19": [
+    "Beginner"
+  ],
+  "Glesse00": [
+    "Beginner",
+    "Intermediate",
+    "Intermediate",
+    "Advanced"
+  ],
+  "Glesse01": [
+    "Beginner",
+    "Advanced"
+  ],
+  "Glesse02": [
+    "Beginner",
+    "Intermediate",
+    "Advanced",
+    "Advanced"
+  ]
+}
