@@ -177,10 +177,12 @@
     "Strategy that uses the radio to get out of the vault well before the portal opens. Similar to inbounds vault skip, but is done without saveloads and is VERY inconsistent. This can save a significant amount of time, over 50 seconds if done well."
   ],
   "IBNSLA02": [
-    "The only viable route."
+    "The only viable route.",
+    "A vertical angle glitch to skip the 02 elevator. Saves 10+ seconds over the legacy route."
   ],
   "IBNSLA04": [
-    "Intended strats."
+    "Intended strats.",
+    "Difficult optimisation in 05 that involves a number of different viewsnaps to save about a second."
   ],
   "IBNSLA06": [
     "Shows multiple routes for 06 and 07 including fast 07 as well as optimizations for both.",
